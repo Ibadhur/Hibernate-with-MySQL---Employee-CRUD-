@@ -1,0 +1,5 @@
+IDE : IntelliJ IDEA (Community Edition)
+VERSION :  2023.1
+Runtime version: 17.0.6+10-b829.5 amd64
+
+JDK VERSION : 20.0
